@@ -1,0 +1,10 @@
+C:\Users\Janek\source\repos\GraLiterki\GraLiterki\bin\Debug\GraLiterki.exe.config
+C:\Users\Janek\source\repos\GraLiterki\GraLiterki\bin\Debug\GraLiterki.exe
+C:\Users\Janek\source\repos\GraLiterki\GraLiterki\bin\Debug\GraLiterki.pdb
+C:\Users\Janek\source\repos\GraLiterki\GraLiterki\obj\Debug\GraLiterki.csprojResolveAssemblyReference.cache
+C:\Users\Janek\source\repos\GraLiterki\GraLiterki\obj\Debug\GraLiterki.Form1.resources
+C:\Users\Janek\source\repos\GraLiterki\GraLiterki\obj\Debug\GraLiterki.Properties.Resources.resources
+C:\Users\Janek\source\repos\GraLiterki\GraLiterki\obj\Debug\GraLiterki.csproj.GenerateResource.cache
+C:\Users\Janek\source\repos\GraLiterki\GraLiterki\obj\Debug\GraLiterki.csproj.CoreCompileInputs.cache
+C:\Users\Janek\source\repos\GraLiterki\GraLiterki\obj\Debug\GraLiterki.exe
+C:\Users\Janek\source\repos\GraLiterki\GraLiterki\obj\Debug\GraLiterki.pdb
